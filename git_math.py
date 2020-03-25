@@ -11,4 +11,7 @@ def Division(x,y):
 	pass 
 	
 def PowerLaw(x,y):
-	pass 
+	pass
+
+def Root(x,y):
+	pass
